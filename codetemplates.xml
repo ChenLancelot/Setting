@@ -40,9 +40,7 @@
 <template autoinsert="false" context="methodcomment_context" deleted="false" description="Comment for non-overriding methods" enabled="true" id="org.eclipse.jdt.ui.text.codetemplates.methodcomment" name="methodcomment">/** 
  * @author Lancelot Chen
  * @date ${date} ${time} 
- * @Copyright：Lancelot Chen个人所有
  * @version V1.0 
- * @Description: ${todo}
  * ${tags}
  */
 </template>
